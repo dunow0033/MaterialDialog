@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/bedon/AndroidStudioProjects/MaterialDialog/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.139" />
+        <entry key="..\:/Users/bedon/AndroidStudioProjects/MaterialDialog/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.139" />
+        <entry key="..\:/Users/bedon/AndroidStudioProjects/MaterialDialog/app/src/main/res/font/bilbo_swash_caps.xml" value="0.2574074074074074" />
+        <entry key="..\:/Users/bedon/AndroidStudioProjects/MaterialDialog/app/src/main/res/font/butcherman.xml" value="0.2574074074074074" />
+        <entry key="..\:/Users/bedon/AndroidStudioProjects/MaterialDialog/app/src/main/res/layout/activity_auto_complete.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/bedon/AndroidStudioProjects/MaterialDialog/app/src/main/res/layout/activity_button.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/bedon/AndroidStudioProjects/MaterialDialog/app/src/main/res/layout/activity_dialog.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/bedon/AndroidStudioProjects/MaterialDialog/app/src/main/res/layout/activity_edit_text.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/bedon/AndroidStudioProjects/MaterialDialog/app/src/main/res/layout/activity_main.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/bedon/AndroidStudioProjects/MaterialDialog/app/src/main/res/layout/activity_menu.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/bedon/AndroidStudioProjects/MaterialDialog/app/src/main/res/layout/activity_text_view.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/bedon/AndroidStudioProjects/MaterialDialog/app/src/main/res/layout/menu_item.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/bedon/AndroidStudioProjects/MaterialDialog/app/src/main/res/menu/menu_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/bedon/AndroidStudioProjects/MaterialDialog/app/src/main/res/menu/menu_more_action.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
